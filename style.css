@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.name-col{
+    color:brown;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: grey;
+}
+section{
+        height: 500px;
+        padding-bottom: 150px;
+
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+   width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+.go{
+    background-color: rgb(230, 235, 243);
+    height: 700px;
+}
+.line{
+    text-align: center;
+    padding: 125px;
+}
+.work{
+    width: 25%;
+    float: left;
+    padding: 3%;
+    margin-left: 2%;
+    background-color: #fff; 
+    box-shadow: 10px 10px 40px #fff;
+    border-radius: 10px;
+    height: 45%;
+}
+.work img{
+    width: 100%;
+}
+.side{
+    padding: 20px 40px;
+}
+.last-part{
+    background-image: url(img/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 60%;
+    height: 200px;
+    align-items: center;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 10px;
+}
+.inquiry{
+    color: #fff;
+}
+#last-part{
+ margin-top: 150px;
+}
+.done{
+    height: 220px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
